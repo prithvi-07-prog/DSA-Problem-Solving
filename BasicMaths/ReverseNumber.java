@@ -1,4 +1,4 @@
-class Solution {
+public class ReverseNumber {
     public int reverse(int x) {
         int rev=0;
         while(x!=0){
